@@ -72,15 +72,15 @@ __END__
 
 =head1 NAME
 
-Acme::CPAN::Ratings - Blah blah blah
+Acme::CPAN::Ratings - Open ratings prompt for CPAN scripts
 
 =head1 SYNOPSIS
 
-  use Acme::CPAN::Ratings;
+  PERL5OPT=-MAcme::CPAN::Ratings 
 
 =head1 DESCRIPTION
 
-Acme::CPAN::Ratings is
+
 
 =head1 AUTHOR
 
